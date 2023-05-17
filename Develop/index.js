@@ -93,7 +93,7 @@ const generateREADME = ({ title, description, installation, usage, contribution,
 
 ## Questions
 - [GitHub](https://github.com/${git})
-- [Email](${email})
+- [Email](mailto:${email})
 `;
 
 // TODO: Create a function to write README file

@@ -30,4 +30,4 @@
 
 ## Questions
 - [GitHub](https://github.com/lalu423)
-- [Email](jonathanlalu@gmail.com)
+- [Email](mailto:jonathanlalu@gmail.com)
