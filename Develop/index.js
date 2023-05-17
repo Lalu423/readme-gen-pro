@@ -45,7 +45,8 @@ inquirer.prompt([
         type: 'input',
         name: 'git',
         message: 'Enter GitHub username:',
-    }, {
+    },
+    {
         type: 'input',
         name: 'email',
         message: 'Enter your e-mail:',
@@ -60,27 +61,37 @@ inquirer.prompt([
     })
 
 const generateREADME = ({ title, description, installation, usage, contribution, test, license, git, email }) =>
-    `# ${title}
-    *[Description](#description)
-    *[Installation](#installation)
-    *[Usage](#usage)
-    *[Contribution](#contribution)
-    *[test](#test)
-    *[License](#license)
-    *[Questions](#questions)
-    # Description
+    `
+# ${title}
+
+## Table of Contents
+    - [Description](#description)
+    - [Installation](#installation)
+    -  [Usage](#usage)
+    - [Contribution](#contribution)
+    - [test](#test)
+    - [License](#license)
+    - [Questions](#questions)
+
+# Description
     ${description}
-    # Installation
+
+# Installation
     ${installation}
-    ## Usage
+
+## Usage
     ${usage}
-    ## Contribution
+
+## Contribution
     ${contribution}
-    ## Test
+
+## Test
     ${test}
-    ## License
+
+## License
     ${license}
-    ## Questions
+
+## Questions
     ${git}
     ${email}`;
 
