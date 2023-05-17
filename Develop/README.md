@@ -11,7 +11,7 @@
 - [Questions](#questions)
 
 # Description
-    j\
+    j
 
 # Installation
     j
@@ -29,5 +29,5 @@
     The MIT License
 
 ## Questions
-- [GitHub](#https://github.com/lalu423)
-- [Email](#jonathanlalu@gmail.com)
+- [GitHub](https://github.com/lalu423)
+- [Email](jonathanlalu@gmail.com)
