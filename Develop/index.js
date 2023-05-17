@@ -65,13 +65,13 @@ const generateREADME = ({ title, description, installation, usage, contribution,
 # ${title}
 
 ## Table of Contents
-    - [Description](#description)
-    - [Installation](#installation)
-    -  [Usage](#usage)
-    - [Contribution](#contribution)
-    - [test](#test)
-    - [License](#license)
-    - [Questions](#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contribution](#contribution)
+- [test](#test)
+- [License](#license)
+- [Questions](#questions)
 
 # Description
     ${description}
@@ -92,8 +92,9 @@ const generateREADME = ({ title, description, installation, usage, contribution,
     ${license}
 
 ## Questions
-    ${git}
-    ${email}`;
+- [GitHub](#https://github.com/${git})
+- [Email](#${email})
+`;
 
 // TODO: Create a function to write README file
 //function writeToFile(fileName, data) { }
