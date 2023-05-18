@@ -17,7 +17,7 @@
 
 ## Usage
 - [Video-Guide](https://drive.google.com/file/d/1n2wEQyWkGBoGsligGYEwDQtDbMCDrpT7/view?usp=sharing)
-    (https://github.com/Lalu423/readme-gen-pro/blob/main/assets/readme-sample.jpg)
+    <img src="https://github.com/Lalu423/readme-gen-pro/blob/main/assets/readme-sample.jpg"/>
 
 ## Contribution
     For this project I received help from my instructors and tutors, I also used a book titled. "Node.js Design Patterns" written by Mario Casciaro. 
