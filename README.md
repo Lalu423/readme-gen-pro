@@ -9,10 +9,10 @@
 - [License](#license)
 - [Questions](#questions)
 
-# Description
+## Description
     This project is a README generator! Users will be able to initiate a sequence of prompts that will use their input to generate a dynamic README file with working links!
 
-# Installation
+## Installation
     Users will need to install Node.js and Inquirer v8.2.4. in order to utilize the command line. 
 
 ## Usage

@@ -72,10 +72,10 @@ const generateREADME = ({ title, description, installation, usage, contribution,
 - [License](#license)
 - [Questions](#questions)
 
-# Description
+## Description
     ${description}
 
-# Installation
+## Installation
     ${installation}
 
 ## Usage
