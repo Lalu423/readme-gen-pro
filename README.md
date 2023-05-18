@@ -22,7 +22,7 @@
     For this project I received help from my instructors and tutors, I also used a book titled. "Node.js Design Patterns" written by Mario Casciaro. 
 
 ## Test
-    There is no Test function yet. 
+    There is no current Test function.  
 
 ## License
     The MIT License
