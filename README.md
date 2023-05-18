@@ -16,7 +16,7 @@
     Users will need to install Node.js and Inquirer v8.2.4. in order to utilize the command line. 
 
 ## Usage
-    This is a video guide on how to use the README generator. 
+- [Video-Guide](https://drive.google.com/file/d/1n2wEQyWkGBoGsligGYEwDQtDbMCDrpT7/view?usp=sharing) 
 
 ## Contribution
     For this project I received help from my instructors and tutors, I also used a book titled. "Node.js Design Patterns" written by Mario Casciaro. 
